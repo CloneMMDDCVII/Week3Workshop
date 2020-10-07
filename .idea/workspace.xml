@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5915ae98-2556-407a-b4ec-7edc8d00db23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iV5I2oNIML8WByqr4kzCuG0zNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Week3Workshop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5915ae98-2556-407a-b4ec-7edc8d00db23" name="Default Changelist" comment="" />
+      <created>1601979835844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601979835844</updated>
+      <workItem from="1601979836896" duration="74000" />
+      <workItem from="1601979917983" duration="4573000" />
+      <workItem from="1602072596265" duration="257000" />
+      <workItem from="1602072868532" duration="2835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3097" y="344" key="#Notifications" timestamp="1602074888272">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3097" y="344" key="#Notifications/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602074888272" />
+    <state x="3125" y="275" key="FileChooserDialogImpl" timestamp="1602075546781">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3125" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075546781" />
+    <state x="3206" y="418" key="Github.ShareDialog" timestamp="1602075391594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3206" y="418" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075391594" />
+    <state width="943" height="279" key="GridCell.Tab.0.bottom" timestamp="1602075568206">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075568206" />
+    <state width="943" height="279" key="GridCell.Tab.0.center" timestamp="1602075568205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075568205" />
+    <state width="943" height="279" key="GridCell.Tab.0.left" timestamp="1602075568205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075568205" />
+    <state width="943" height="279" key="GridCell.Tab.0.right" timestamp="1602075568205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075568205" />
+    <state x="2842" y="165" key="SettingsEditor" timestamp="1602075676846">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2842" y="165" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602075676846" />
+    <state x="2944" y="100" width="803" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602073573457">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2944" y="100" width="803" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602073573457" />
+  </component>
+</project>
